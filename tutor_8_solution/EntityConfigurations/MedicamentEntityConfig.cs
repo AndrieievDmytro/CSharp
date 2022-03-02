@@ -1,0 +1,18 @@
+using tutor_8_solution.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
+namespace tutor_8_solution.EntityConfigurations
+{
+    public class MedicamentEntityConfig : IEntityTypeConfiguration<Medicament>
+    {
+        public void Configure(EntityTypeBuilder<Medicament> builder)
+        {
+            builder.HasKey(m => m.IdMedicament);
+            builder.Property(m => m.IdMedicament).ValueGeneratedOnAdd();
+            builder.Property(m => m.Name).IsRequired().HasMaxLength(100);
+            builder.Property(m => m.Description).IsRequired().HasMaxLength(100);
+            builder.Property(m => m.Type).IsRequired().HasMaxLength(100);
+        }
+    }
+}
