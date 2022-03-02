@@ -1,0 +1,16 @@
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\bin\Debug\net5.0\ref\LinqTutorials.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csprojAssemblyReference.cache
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+C:\Users\asus\ProjectFolder\CSharp\tutorial-6-ihord-AndrieievDmytro\LinqTutorial\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
