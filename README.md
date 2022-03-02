@@ -1,4 +1,4 @@
-# CSharp projects done by me.
+# CSharp projects have done by me.
 
 Basic C# , Introduction to patterns, 
 REST API ASP.NET Core Web API,
