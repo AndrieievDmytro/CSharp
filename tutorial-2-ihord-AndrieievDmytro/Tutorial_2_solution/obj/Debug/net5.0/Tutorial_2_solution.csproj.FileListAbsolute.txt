@@ -1,0 +1,16 @@
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\bin\Debug\net5.0\Tutorial_2_solution.exe
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\bin\Debug\net5.0\Tutorial_2_solution.deps.json
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\bin\Debug\net5.0\Tutorial_2_solution.runtimeconfig.json
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\bin\Debug\net5.0\Tutorial_2_solution.runtimeconfig.dev.json
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\bin\Debug\net5.0\Tutorial_2_solution.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\bin\Debug\net5.0\ref\Tutorial_2_solution.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\bin\Debug\net5.0\Tutorial_2_solution.pdb
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.csprojAssemblyReference.cache
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.AssemblyInfoInputs.cache
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.AssemblyInfo.cs
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.csproj.CoreCompileInputs.cache
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\ref\Tutorial_2_solution.dll
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.pdb
+C:\Users\asus\ProjectFolder\CSharp\tutorial-2-ihord-AndrieievDmytro\Tutorial_2_solution\obj\Debug\net5.0\Tutorial_2_solution.genruntimeconfig.cache
